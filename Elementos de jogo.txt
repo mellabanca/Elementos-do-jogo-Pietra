@@ -1,0 +1,86 @@
+Elementos do jogo - Corrida multiplayer
+
+Personagens:
+PCs - Playing character (personagem que a gente controla)
+Carrinho
+NPCs - Non-playing character (não controla, o pc que controla)
+Combustível, moedas
+
+Objetivo:
+Ultrapassar a linha de chegada em primeiro lugar
+
+Regras:
+Controlo o carrinho usando as setas de direção (esquerda, direita, cima)
+Se eu coleto uma moeda, ganho 21 pontos
+Se eu pego o combustível, minha barra fica completa
+Se eu bato no obstáculo/outro carrinho, perco vida
+O jogo começa quando os dois jogadores entram (colocar o nome/apertar o botão)
+O jogo termina quando ultrapassa a linha de chegada, ou quando morre, ou quando
+fica sem combustível
+Vence o jogo quem cruzar a linha de chegada primeiro (e de preferência com mais pontos)
+Quando apertamos o botão de reiniciar, o jogo recomeça
+
+Equilíbrio:
+Mais fácil - carro andando sozinho, tanque de combustível, não perde a vida de uma vez
+Mais difícil - obstáculos, outro jogador, sistema de baixar o combustível
+
+Elementos de acaso:
+moedas, combustíveis, outro jogador
+
+Elementos de habilidade:
+obstáculos
+
+Feedback:
+Pontuação
+Barra de vida
+Barra de combustível
+Sweet alert
+
+História:
+Relâmpago McQueen e Sally estão em sua lua de mel na praia e resolveram apostar uma corrida
+para lembrar dos velhos tempos
+Toretto e o Paul Walker
+
+-----------------------------------------------------------------------
+Elementos do jogo - Minecraft
+
+Personagens:
+PCs - Eu (jogador) - Steve
+NPCs - Animais, Mobs, Villagers, Pillagers, Golems, recursos (madeira, pedra, etc)
+
+Objetivo:
+Principal - Matar o Ender Dragon
+Secundário - o que o seu coração mandar
+
+Regras:
+Inventário - onde você pode organizar suas coisas
+Barra de comida - se você fica sem, morre de fome
+Barra de xp - à medida que você cumpre alguns objetivos, aumenta seu xp e daí pode gastar ele
+em encantamentos ou morrendo
+Mêcanica normal de jogo - matar monstro, mesa de encantamento, explorar recursos
+etc
+etc
+etc
+
+Equilíbrio:
+Mais fácil - modos (pacífico, etc), dormir, luz, cachorro, monstros de dia não causam nada,
+comidas vegetais, vilas, minas
+Mais difícil - noite, escuridão, caverna, nether, "fortaleza"
+
+Elementos de acaso:
+Mundo (vilas, fortalezas, tudo), mobs
+Em resumo, tudo kkkk
+
+Elementos de habilidade:
+Tudo o que o jogador consegue fazer
+
+Feedback:
+Xp
+Barra de vida
+Barra de comida
+Recursos
+CONSTRUÇÕES
+
+História:
+Nunca buscamos a fundo qual é a história
+Ender Dragon
